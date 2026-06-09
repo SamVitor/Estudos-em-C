@@ -1,4 +1,5 @@
-Projeto Super Trunfo.
+Projeto Super Trunfo
+
 Projeto Desenvolvido durante os estudos da diciplina de programação em C da graduação em Engenharia de Software.
 
 Objetivo
