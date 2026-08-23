@@ -1,24 +1,26 @@
-PROJETO GERENCIAMENTO DE MOCHILA
+# PROJETO ESTRUTURAS DE DADOS E ALGORITMOS
 
-Projeto desenvolvido durante a graduação
+Projeto desenvolvido durante a graduação.
 
-Objetivo
+## Objetivo
 
 Aplicar conceitos como:
- Estruturas de dados lineares
- Listas estáticas e dinâmicas
- Listas encadeadas
- Uso de Structs
- Manipulação de ponteiros
- Alocação dinâmica de memória
- Busca linear
- Busca binária
- Recursividade
- Métodos de ordenação
-   Bubble Sort
-   Insertion Sort
-   Selection Sort
 
-Tecnologias
+* Estruturas de dados lineares
+* Listas estáticas e dinâmicas
+* Listas encadeadas
+* Uso de Structs
+* Manipulação de ponteiros
+* Alocação dinâmica de memória
+* Busca linear
+* Busca binária
+* Recursividade
+* Métodos de ordenação
 
-Linguagem C
+  * Bubble Sort
+  * Insertion Sort
+  * Selection Sort
+
+## Tecnologias
+
+* Linguagem C
