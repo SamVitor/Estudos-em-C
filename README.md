@@ -8,6 +8,7 @@ Repositório para registro de conceitos, exercícios e projetos desenvolvidos du
 - Exercícios práticos
 - Projeto Super Trunfo
 - Sistema de Biblioteca
+- Gerenciamento de mochila
 
 ## Objetivo
 
